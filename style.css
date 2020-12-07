@@ -1,0 +1,54 @@
+.nav-link {
+    color: white;
+}
+
+.navbar {
+    background-color: black !important;
+}
+
+#div-2 {
+    background-color: whitesmoke;
+    height: 45px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#blue {
+    color: blue;
+} 
+
+#div-3 {
+     display: flex;
+     text-align: center;
+     margin-top: 80px;
+     padding-left: 480px;
+}
+
+#div-3>img {
+    width: 60px;
+}
+
+#div-3>h1 {
+    padding-top: 15px;
+    font-weight: 900;
+}
+
+#div-4 {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+    
+} 
+
+#span-4 {
+    color: blue;
+    font-size: 20px;
+}
+
+#div-5 {
+    margin-top: 50px;
+}
+
+.img {
+    width: 49.5%;
+}
